@@ -33,5 +33,10 @@ A complete pharmacy management web application: point of sale, stock control wit
 ## 🤝 Need something similar?
 
 I build custom pharmacy, hotel, ERP and ordering systems, and modernize legacy WinForms / VB.NET apps to ASP.NET Core. See my [profile](https://github.com/SalmanDosani-Dev) for more.
-# pharmacy-management-aspnetcore
-Pharmacy management system with ASP.NET Core and SQL Server
+
+## 📸 Screenshots
+
+| | |
+|---|---|
+| ![POS](screenshots/pos.jpg) | ![Screen 2](screenshots/screen-2.jpg) |
+| ![Screen 3](screenshots/screen-3.jpg) | |
